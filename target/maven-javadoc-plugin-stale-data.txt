@@ -1,0 +1,49 @@
+@options
+@packages
+-classpath
+'C:/Users/gabri/.m2/repository/org/netbeans/external/AbsoluteLayout/RELEASE220/AbsoluteLayout-RELEASE220.jar'
+-encoding
+'UTF-8'
+-protected
+-source
+'22'
+-sourcepath
+'C:/Users/gabri/OneDrive/Documentos/NetBeansProjects/MaqueFacil/src/main/java;C:/Users/gabri/OneDrive/Documentos/NetBeansProjects/MaqueFacil/target/generated-sources/annotations'
+-author
+-bottom
+'Copyright &#169; 2024. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/gabri/OneDrive/Documentos/NetBeansProjects/MaqueFacil/target/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'MaqueFacil 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'MaqueFacil 1.0-SNAPSHOT API'
+Controller
+Controller.Helper
+Model
+Model.DAO
+View
+C:\Users\gabri\.m2\repository\org\netbeans\external\AbsoluteLayout\RELEASE220\AbsoluteLayout-RELEASE220.jar = 1717868930938
+C:\Users\gabri\OneDrive\Documentos\NetBeansProjects\MaqueFacil\src\main\java = 1717953089549
+C:\Users\gabri\OneDrive\Documentos\NetBeansProjects\MaqueFacil\target\generated-sources\annotations = 1718064715925
+C:\Users\gabri\OneDrive\Documentos\NetBeansProjects\MaqueFacil\target\apidocs\allclasses-index.html = 1718064722942
+C:\Users\gabri\OneDrive\Documentos\NetBeansProjects\MaqueFacil\target\apidocs\allpackages-index.html = 1718064722946
+C:\Users\gabri\OneDrive\Documentos\NetBeansProjects\MaqueFacil\target\apidocs\element-list = 1718064722675
+C:\Users\gabri\OneDrive\Documentos\NetBeansProjects\MaqueFacil\target\apidocs\help-doc.html = 1718064723014
+C:\Users\gabri\OneDrive\Documentos\NetBeansProjects\MaqueFacil\target\apidocs\index-all.html = 1718064723003
+C:\Users\gabri\OneDrive\Documentos\NetBeansProjects\MaqueFacil\target\apidocs\index.html = 1718064722911
+C:\Users\gabri\OneDrive\Documentos\NetBeansProjects\MaqueFacil\target\apidocs\member-search-index.js = 1718064722954
+C:\Users\gabri\OneDrive\Documentos\NetBeansProjects\MaqueFacil\target\apidocs\module-search-index.js = 1718064722948
+C:\Users\gabri\OneDrive\Documentos\NetBeansProjects\MaqueFacil\target\apidocs\overview-summary.html = 1718064723009
+C:\Users\gabri\OneDrive\Documentos\NetBeansProjects\MaqueFacil\target\apidocs\overview-tree.html = 1718064722906
+C:\Users\gabri\OneDrive\Documentos\NetBeansProjects\MaqueFacil\target\apidocs\package-search-index.js = 1718064722950
+C:\Users\gabri\OneDrive\Documentos\NetBeansProjects\MaqueFacil\target\apidocs\search.html = 1718064723006
+C:\Users\gabri\OneDrive\Documentos\NetBeansProjects\MaqueFacil\target\apidocs\serialized-form.html = 1718064722769
+C:\Users\gabri\OneDrive\Documentos\NetBeansProjects\MaqueFacil\target\apidocs\tag-search-index.js = 1718064722956
+C:\Users\gabri\OneDrive\Documentos\NetBeansProjects\MaqueFacil\target\apidocs\type-search-index.js = 1718064722952
